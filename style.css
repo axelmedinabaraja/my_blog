@@ -1,0 +1,21 @@
+body{
+    text-align:center;
+}
+#app{
+    background-color: coral;
+}
+#game{
+
+    background-color: gold;
+}
+.line{
+    height:6px;
+    background-color: red;
+    width:70px;
+    margin: 8px auto;
+}
+h1{
+    font-size:40px;
+    font-family:sans-serif;
+    font-weight: 300;
+}
